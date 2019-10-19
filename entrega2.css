@@ -1,7 +1,7 @@
 .aviao  {
     z-index: -1;
     border-radius: 12px;
-    margin-top: 13px;
+    margin-top: 25px;
     margin-left: 6px;
     width: 505.98px;
     height: 337.31;
@@ -151,36 +151,17 @@ body {
     font-family: verdana, sans-serif;
 }
 
-.div2 {
-    margin-left: 80px;
-    
 
-
-}
-
-.div3 {
-
-    margin-left: 200px;
-    display: flex;
-    width: 507px;
-
-    
-}
 
 .icone {
 
     margin-top: 15px;
     padding-bottom: 9px;
-
-
-    
     fill: rgb(110, 118, 125);
      
 
 }
-.mencao {
-    color: #1B95E0;
-}
+
 
 .texto_imagem_botoes{
     display: flex;
